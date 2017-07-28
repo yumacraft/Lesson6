@@ -16,6 +16,7 @@ public class TestPayIncease {
 		workers[2] = new Employee("Steve");
 		
 		System.out.println("Изменения");
+		System.out.println("Изменения вторая строка");
 		
 		     Employee currentEmployee;
 		     Contractor currentContractor; 
